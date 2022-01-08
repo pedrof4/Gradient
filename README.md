@@ -1,2 +1,2 @@
 # Gradient
-CSS gradient model
+CSS only beautiful gradient model
